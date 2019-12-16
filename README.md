@@ -1,10 +1,6 @@
 # Organigame
 
-## App to organize different kind of game with your friends. No more drama 😌
-
-TODO : 
-
-* Find typo we used for the design
+An app to organize different kind of game with your friends. No more drama 😌
 
 ## Design
 
