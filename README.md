@@ -1,6 +1,6 @@
 # Organigame
 
-An app to organize different kind of game with your friends. No more drama 😌
+An app to organize different kind of games with your friends. No more drama 😌
 
 ## Design
 
